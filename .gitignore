@@ -37,3 +37,6 @@ Carthage/
 *.xccheckout
 *.moved-aside
 *.hmap
+
+# Local Netlify folder
+.netlify
